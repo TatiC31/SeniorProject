@@ -1,0 +1,32 @@
+body{
+    background: rgb(204, 204, 204);
+    height: 100vh;
+}
+.navMenuContainer{
+    padding-top: 15px;
+}
+
+.navMenu{
+    font-size: 14px;
+    font-weight: bold;
+    color: black;
+    text-decoration: none;
+}
+.headerSt{
+    text-align: center;
+}
+
+.headerMenu{
+    font-family: 'Playfair Display', serif;
+}
+
+.marginTop{
+    margin-top: 10%;
+    display: flex;
+    justify-content: center;
+}
+    
+.title{
+    font-size: 44px;
+    font-family: 'Playfair Display', serif;
+}

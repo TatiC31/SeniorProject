@@ -1,0 +1,27 @@
+body{
+    background: rgb(251, 220, 217);
+    height: 100vh;
+}
+
+.navMenuContainer{
+    padding-top: 15px;
+}
+
+.navMenu{
+    font-size: 14px;
+    font-weight: bold;
+    color: black;
+    text-decoration: none;
+}
+
+.header{
+    font-size: 70px;
+}
+
+.para{
+    font-size: 20px;
+}
+
+.hi{
+    font-family: 'Playfair Display', serif;
+}
